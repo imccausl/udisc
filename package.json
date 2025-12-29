@@ -28,7 +28,7 @@
     "@typescript-eslint/parser": "^8.46.4",
     "@yarnpkg/sdks": "^3.2.3",
     "eslint": "^9.39.1",
-    "jsdom": "^27.2.0",
+    "jsdom": "^27.4.0",
     "msw": "^2.12.2",
     "prettier": "^3.6.2",
     "tsx": "^4.20.6",

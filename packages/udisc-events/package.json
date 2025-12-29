@@ -42,7 +42,7 @@
     "@types/jsdom": "^27",
     "@types/luxon": "^3.7.1",
     "@types/xlsx": "^0.0.36",
-    "jsdom": "^27.2.0",
+    "jsdom": "^27.4.0",
     "msw": "^2.12.2",
     "vitest": "^4.0.10"
   },
