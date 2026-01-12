@@ -44,7 +44,7 @@
     "@types/xlsx": "^0.0.36",
     "jsdom": "^27.2.0",
     "msw": "^2.12.2",
-    "vitest": "^4.0.10"
+    "vitest": "^4.0.17"
   },
   "dependencies": {
     "cheerio": "^1.1.2",
