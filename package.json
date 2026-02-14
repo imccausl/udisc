@@ -22,7 +22,7 @@
     "publish-packages": "changeset version && changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.29.7",
+    "@changesets/cli": "^2.29.8",
     "@imccausl/dev": "^2.3.0",
     "@types/node": "^24.10.1",
     "@typescript-eslint/parser": "^8.46.4",
