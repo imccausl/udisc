@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.7",
-    "@imccausl/dev": "^2.3.0",
+    "@imccausl/dev": "^2.3.1",
     "@types/node": "^24.10.1",
     "@typescript-eslint/parser": "^8.46.4",
     "@yarnpkg/sdks": "^3.2.3",
